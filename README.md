@@ -1,5 +1,5 @@
 # Race Off ++
-<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/9613d173-ff37-4633-b448-af94d5563476" />
+<img width="527" height="527" alt="logo" src="https://github.com/user-attachments/assets/cfb46271-b27d-4f11-8a0e-a70e1e7bdedb" />
 
 A race off private server that host the latest Race off Android 2021 apk
 
